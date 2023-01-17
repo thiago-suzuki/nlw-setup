@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img alt="Nlw Setup" title="NLW Setup" width="200" src="images/Logo.png" />
+</h1>
+
 ## 💻 Tecnologias Utilizadas nesse Projeto
 <div style="display: inline_block">
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
