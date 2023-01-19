@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Nlw Setup" title="NLW Setup" width="200" src="images/Logo.png" />
+  <img alt="Nlw Setup" title="NLW Setup" width="200" src="images/Logo.jpeg" />
 </h1>
 
 ## 💻 Tecnologias Utilizadas nesse Projeto
